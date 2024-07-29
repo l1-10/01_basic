@@ -1,7 +1,10 @@
 apple
 bannana
 peach
-
+orange
 tomato
-strawberry
+strowberry
 mango
+applemango
+watermelon
+melon
